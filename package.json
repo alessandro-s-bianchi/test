@@ -2,7 +2,7 @@
 	"name": "@kktsvetkov/heiho",
 	"version": "0.3.5",
 	"description": "Quick spreadsheet viewer in vanilla JS",
-	"main": "heiho.js",
+	"main": "main.html",
 	"repository":
 	{
 		"url": "https://github.com/kktsvetkov/heiho",
